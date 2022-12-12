@@ -3,4 +3,7 @@ body{
     font-family: 'montserrat', sans-serif;
     color: #fff;
     background-image: url('');
+    background-position: center;
+    background-repeat: no-repat;
+    background-size: cover;
 }
